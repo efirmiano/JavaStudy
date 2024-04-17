@@ -37,5 +37,9 @@ public class Main {
         EstruturaRepeticao repeticao = new EstruturaRepeticao();
         System.out.println(repeticao);
 
+        //Estancia da classe OrientacaoObject
+        OrientacaoObject objeto = new OrientacaoObject();
+        System.out.println(objeto);
+
     }
 }
