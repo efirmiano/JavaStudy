@@ -1,8 +1,10 @@
 import Cinco.Emcapsulamento;
 import Cinco.OrientacaoObject;
+import Dez.InterfacesImplemantando;
 import Dois.EnumDiasDaSemana;
 import Dois.Variaveis;
 import Cinco.PacoteImportTeste.PacotesImportados;
+import Nove.ClasseFuncionarioHeranca;
 import Oito.ArraysEListas;
 import Quatro.EstruturaControle_If_IfElse_Switch_break_continue;
 import Quatro.EstruturaRepeticao;
@@ -74,6 +76,13 @@ public class Main {
         //Instaciando ArrayEList
         ArraysEListas arrayLista= new ArraysEListas();
 
+        //Instanciando ClasseFuncionarioHerenca que herda da Classe ClassePessoaHeranca
+        ClasseFuncionarioHeranca funcionario = new ClasseFuncionarioHeranca("Estevao",32,'M',323232,"estevao@empresa.com.br");
+        funcionario.imprimir();
 
+        //Instaciando Classe InterfacesImplemantando que está implementando um Interface
+        InterfacesImplemantando interf = new InterfacesImplemantando();
+        interf.ligar();
+        interf.desligar();
     }
 }

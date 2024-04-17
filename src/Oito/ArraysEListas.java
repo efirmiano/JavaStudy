@@ -28,11 +28,29 @@ public class ArraysEListas {
         list.add("Angela");
 
         // Exibindo os elementos da lista
+        //Foreach para percorrer a lista
         for (String item : list) {
             System.out.println(item);
         }
 
+        int arrayNumeros[];
+        arrayNumeros = new int[20];
 
+        //For tradicional para percorrer a lista.
+
+        for(int i = 0; i < arrayNumeros.length; i++){
+            arrayNumeros[i]= i;
+            System.out.println("Percorrendo o Array no metodo tradicional: "+arrayNumeros[i] + " ");
+        }
+
+        //Utilizando Array em objetos
+        Pessoa user = new Pessoa("Estevao");
+        //Criando Varios objetos com Array
+        Pessoa novoUsuario[] = {user, new Pessoa("Maria"), new Pessoa("Fernada")};
+
+        for (Pessoa x :novoUsuario) {
+            System.out.println(x.getNome());
+        }
 
 
     }

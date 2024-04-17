@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ae9d22a-e780-44b7-ad51-a5391151fee5" name="Changes" comment="Segundo Commit do project in Java">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cinco/Emcapsulamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cinco/PacoteImportTeste/PacotesImportados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oito/ArraysEListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oito/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seis/EstruturaMetodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sete/Construtores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Um/Primeiro.java" afterDir="false" />
+    <list default="true" id="0ae9d22a-e780-44b7-ad51-a5391151fee5" name="Changes" comment="Primeiro Commit do project in Java na Branch1">
+      <change afterPath="$PROJECT_DIR$/src/Dez/InterfacesConceito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dez/InterfacesImplemantando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nove/ClasseFuncionarioHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nove/ClassePessoaHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nove/Herenca_Abstract_Polimorfismo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Program1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnumDiasDaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dois/EnumDiasDaSemana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quatro/EstruturaControle_If_IfElse_Switch_break_continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quatro/EstruturaRepeticao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cinco/ObjectPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tres/Operadores_aritimeticos_logicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cinco/OrientacaoObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dois/Variaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oito/ArraysEListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oito/ArraysEListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oito/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oito/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +25,17 @@
       <list>
         <option value="Enum" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -97,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713302101856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeiro Commit do project in Java na Branch1">
+      <created>1713374334839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713374334839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commit do project in Java" />
     <MESSAGE value="Segundo Commit do project in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit do project in Java" />
+    <MESSAGE value="Primeiro Commit do project in Java na Branch1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit do project in Java na Branch1" />
   </component>
 </project>
