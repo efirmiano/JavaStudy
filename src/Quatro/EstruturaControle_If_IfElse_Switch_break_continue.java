@@ -1,6 +1,8 @@
-public class EstruturaControle {
+package Quatro;
 
-    public EstruturaControle (){
+public class EstruturaControle_If_IfElse_Switch_break_continue {
+
+    public EstruturaControle_If_IfElse_Switch_break_continue(){
 
         int a = 10;
         int b = 9;

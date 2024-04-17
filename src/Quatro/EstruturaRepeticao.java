@@ -1,3 +1,5 @@
+package Quatro;
+
 public class EstruturaRepeticao {
     public EstruturaRepeticao(){
     // Estruturas de repetição

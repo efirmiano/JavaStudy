@@ -1,3 +1,7 @@
+package Cinco;
+
+import Cinco.ObjectPersona;
+
 public class OrientacaoObject {
 
     public OrientacaoObject (){

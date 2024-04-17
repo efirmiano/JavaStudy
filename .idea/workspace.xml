@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ae9d22a-e780-44b7-ad51-a5391151fee5" name="Changes" comment="Segundo Commit do project in Java">
-      <change afterPath="$PROJECT_DIR$/src/ObjectPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cinco/Emcapsulamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cinco/PacoteImportTeste/PacotesImportados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oito/ArraysEListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oito/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seis/EstruturaMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sete/Construtores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Um/Primeiro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Program1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumDiasDaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dois/EnumDiasDaSemana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quatro/EstruturaControle_If_IfElse_Switch_break_continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quatro/EstruturaRepeticao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cinco/ObjectPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tres/Operadores_aritimeticos_logicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cinco/OrientacaoObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dois/Variaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +33,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Cinco/PacoteImportTeste/PacotesImportados.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,13 +53,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

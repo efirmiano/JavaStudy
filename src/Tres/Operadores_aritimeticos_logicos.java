@@ -1,4 +1,6 @@
-public class Operadores {
+package Tres;
+
+public class Operadores_aritimeticos_logicos {
     //<tipo> <nomeVariávelOuConstante> = <valorAtribuição>;
     //Atribuir
     boolean flag = false;
@@ -18,7 +20,7 @@ public class Operadores {
     // Sysout tbm não funciona direto na classe precisa de um metodo:
     public int aritimeticos(){
 
-        //Operadores aritméticos de atribuição reduzida
+        //Tres.Operadores_aritimeticos_logicos aritméticos de atribuição reduzida
         int x = 2;
         int y = 2;
         int h = 2;
@@ -36,14 +38,14 @@ public class Operadores {
         //System.out.println(h);
         //.out.println(z);
         //System.out.println(v);
-       // System.out.println("Operadores aritméticos de atribuição reduzida");
+       // System.out.println("Tres.Operadores_aritimeticos_logicos aritméticos de atribuição reduzida");
 
         return (v);
     }
-    //Operadores incrementais e decrementais
+    //Tres.Operadores_aritimeticos_logicos incrementais e decrementais
     public int incrementaisDecrementais(){
 
-        //Operadores incrementais e decrementais
+        //Tres.Operadores_aritimeticos_logicos incrementais e decrementais
         int x = 5;
         int y = 10;
 
@@ -54,12 +56,12 @@ public class Operadores {
         return (y);
     }
 
-    //Operadores Relacionais
+    //Tres.Operadores_aritimeticos_logicos Relacionais
     public boolean relacionais(){
         int x = 5;
         int y = 4;
 
-        //Operadores Relacionais
+        //Tres.Operadores_aritimeticos_logicos Relacionais
         boolean h;
         h = x == y; //Varial x é igual a Y
         h = x < y; // Variavel x é menor que y
@@ -71,12 +73,12 @@ public class Operadores {
         return h;
     }
 
-    //Operadores Logicos
+    //Tres.Operadores_aritimeticos_logicos Logicos
     public boolean logicos(){
         int x = 5;
         int y = 4;
 
-        //Operadores Logicos
+        //Tres.Operadores_aritimeticos_logicos Logicos
         boolean h;
         h = x == y & x < y; //Varial x é igual a Y E Variavel x é menor que y (CONJUNçÃO)
         h = x == y && x < y; //Varial x é igual a Y E Variavel x é menor que y (CONJUNçÃO)
@@ -102,7 +104,7 @@ public class Operadores {
         return h;
     }
 
-    // Operadores Ternarios
+    // Tres.Operadores_aritimeticos_logicos Ternarios
     public String ternario() {
         // Sintax (<variávelOuConstante> = <testeLogico> ? <valorSeVerdadeiro> :<valorSeFalso>;)
         int h = 2, j = 4;
